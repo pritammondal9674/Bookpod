@@ -2,6 +2,6 @@
 
 #Preview
 
-Only for desktop and tabs
+Only for desktops and tabs
 
 https://pritammondal9674.github.io/Bookpod/
